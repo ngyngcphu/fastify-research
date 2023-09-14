@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.6.0",
+    "pino-pretty": "^10.2.0",
     "tap": "^16.1.0",
     "typescript": "^5.2.2"
   }
