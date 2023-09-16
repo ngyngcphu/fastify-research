@@ -19,12 +19,16 @@
     "@fastify/swagger-ui": "^1.9.3",
     "@prisma/client": "^5.3.0",
     "@sinclair/typebox": "^0.31.15",
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.3.1",
     "envalid": "^7.3.1",
     "fastify": "^4.0.0",
+    "jsonwebtoken": "^9.0.2",
     "prisma": "^5.3.0"
   },
   "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.3",
     "@types/node": "^20.6.0",
     "pino-pretty": "^10.2.0",
     "tap": "^16.1.0",
